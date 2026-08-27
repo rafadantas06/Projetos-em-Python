@@ -1,1 +1,1 @@
-# Projetos-em-Python
+# Programas acadêmicos e pessoais na linguagem Python
